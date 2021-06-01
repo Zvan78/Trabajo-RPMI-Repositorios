@@ -13,6 +13,8 @@ public class Prueba_Iván : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        MetodoVacio();
+        {
+            Debug.Log("I am alive!");
+        }
     }
 }

@@ -14,7 +14,7 @@ public class Prueba_Iván : MonoBehaviour
     void Update()
     {
         {
-            Debug.Log("I am alive!");
+            Debug.Log("Fuck, i am alive!");
         }
     }
 }
